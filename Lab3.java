@@ -1,8 +1,23 @@
 package Lab3;
 
-import java.util.ArrayList;
+
+/**
+* A program that is a guessing game with 5 tries that takes the range of total guessing number pool
+* 	from the user as an input and the user is then prompted to input their guess.
+* The program will say if the guess is too high or too low and will prompt for another input
+* 
+* Group #10
+* 
+* @author Higinio Dylan
+* @Since October 31, 2022
+
+
+*/
 import java.util.Scanner;
 import java.util.Random;
+
+
+
 
 
 
